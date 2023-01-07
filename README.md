@@ -1,5 +1,7 @@
 # Binary-Search-Tree
 
+Note: Please download the zip file for the complete code.
+
 Given the following structure that represents the building block of a binary tree.
 
 const int MAX_CHILD=2;
